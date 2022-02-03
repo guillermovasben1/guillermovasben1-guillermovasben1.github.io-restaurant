@@ -1,0 +1,37 @@
+#img{
+height:80px;
+margin-left:10px;
+}
+.tittle_logo{
+    margin-left:15px;
+}
+ul li a{
+    margin-right: 10px;
+    font-family: 'Caveat', cursive;
+}
+
+h1{
+    font-family: 'Tangerine', cursive;
+}
+
+#main .carousel-inner img{
+    max-height: 65vh;
+    object-fit: cover;
+    filter: grayscale(70%);
+}
+/* .contrast-text{
+    color:white;
+    -webkit-text-stroke: 0.6px red;
+  
+} */
+
+#footer{
+    background-color:#6EB5FF;
+    border: #A79AFF 1px solid;
+    color: azure;
+    -webkit-box-shadow: 2px 3px 8px 1px rgba(0,0,0,0.78); 
+    box-shadow: 2px 3px 8px 1px rgba(0,0,0,0.78);
+}
+
+
+
